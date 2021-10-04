@@ -63,7 +63,7 @@ while index < 5 {
 }
 ```
 
-### For loop
+### For loopgit
 
 ```rust
 let a = [10, 20, 30, 40, 50];
