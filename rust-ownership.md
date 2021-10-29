@@ -142,9 +142,9 @@ fn calculate_length(s: String) -> (String, usize) {
     (s, length)
 }
 
-```rust
 fn main() {
-    let s1 = String::from("hello");```
+    let s1 = String::from("hello");
+```
 
 Using references:
 
